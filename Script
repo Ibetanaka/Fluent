@@ -1,0 +1,2 @@
+build -tanakaibe dev-reward-script
+-it --network ethereum -v ~/.ssh:/root/.ssh:ro dev-reward-script
